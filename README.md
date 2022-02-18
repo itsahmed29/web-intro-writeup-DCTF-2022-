@@ -1,4 +1,4 @@
-# web-intro writeup [DCTF 2022]
+# web-intro writeup (DCTF 2022)
 
 Hello friends, in this article we gonna take a look at the challenge web-intro from the DCTF 2022.
 
